@@ -1,0 +1,26 @@
+{
+  "name": "adventure-text",
+  "version": "1.0.0",
+  "description": "You are likely to be eaten by a grue.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keawade/adventure-text.git"
+  },
+  "keywords": [
+    "text-based",
+    "adventure",
+    "zork",
+    "grue",
+    "game"
+  ],
+  "author": "keawade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keawade/adventure-text/issues"
+  },
+  "homepage": "https://github.com/keawade/adventure-text#readme"
+}
