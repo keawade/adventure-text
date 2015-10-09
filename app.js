@@ -1,1 +1,4 @@
-var data = require('./data.js');
+var you = {
+  inventory: [],
+
+}
